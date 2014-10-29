@@ -1,1 +1,1 @@
-Readme per fer el primer commit.
+Readme per fer el primer commit
