@@ -1,0 +1,1 @@
+Readme per fer el primer commit.
