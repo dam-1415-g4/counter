@@ -1,0 +1,9 @@
+diff a/README3.txt b/README3.txt	(rejected hunks)
+@@ -1,7 +1,6 @@
+ -canvi tercera branca
+ +<<<<<<< HEAD
+ +canvi tercera branca.
+- A l'exàmen ens apretaràn!
+ +A l'exàmen ens apretaràn!
+ +=======
+ +canvi tercera branca
